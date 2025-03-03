@@ -1,0 +1,92 @@
+[
+  {
+    "name": "섹시걸",
+    "slides": [
+      {
+        "type": "image",
+        "url": "https://i.imgur.com/TTfgvI5.png",
+        "alt": "섹시1"
+      },
+      {
+        "type": "video",
+        "url": "https://youtu.be/8496drVCXOA",
+        "alt": "섹시2"
+      }
+    ]
+  },
+  {
+    "name": "유튜브(소리)",
+    "slides": [
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/embed/eCy_YkOazSU",
+        "alt": "유튜브샘플"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/embed/eCy_YkOazSU",
+        "alt": "유튜브샘플"
+      }
+    ]
+  },
+  {
+    "name": "피트니스(남녀)",
+    "slides": [
+      {
+        "type": "video",
+        "url": "https://i.imgur.com/6APC2JL.mp4",
+        "alt": "여신비디오"
+      },
+      {
+        "type": "image",
+        "url": "https://i.imgur.com/pkJB9Oz.png",
+        "alt": "여신이미지"
+      }
+    ]
+  },
+  {
+    "name": "풍수이미지",
+    "slides": [
+      {
+        "type": "image",
+        "url": "https://i.imgur.com/TTfgvI5.png",
+        "alt": "섹시1"
+      },
+      {
+        "type": "video",
+        "url": "https://i.imgur.com/6APC2JL.mp4",
+        "alt": "섹시2"
+      }
+    ]
+  },
+  {
+    "name": "보석과황금",
+    "slides": [
+      {
+        "type": "video",
+        "url": "https://i.imgur.com/6APC2JL.mp4",
+        "alt": "여신비디오"
+      },
+      {
+        "type": "image",
+        "url": "https://i.imgur.com/pkJB9Oz.png",
+        "alt": "여신이미지"
+      }
+    ]
+  },
+  {
+    "name": "풍요의상징",
+    "slides": [
+      {
+        "type": "image",
+        "url": "https://i.imgur.com/8Q0gS27.png",
+        "alt": "세로1"
+      },
+      {
+        "type": "image",
+        "url": "https://i.imgur.com/bmPZ2x2.png",
+        "alt": "세로2"
+      }
+    ]
+  }
+]
