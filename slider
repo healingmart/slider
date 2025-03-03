@@ -19,7 +19,5 @@
       "type": "image",
       "url": "https://example.com/img1.jpg"
     },
-    ...
   ]
-},
-...
+}
