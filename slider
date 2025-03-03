@@ -1,4 +1,4 @@
-const categoriesData = [
+ [
   {
     name: "섹시걸",
     slides: [
