@@ -237,7 +237,45 @@
         "url": "https://i.imgur.com/8Q0gS27.png",
         "alt": "풍요"
 
+      },
+
+{
+    "name": "유튜브",
+    "slides": [
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/embed/eCy_YkOazSU",
+        "alt": "나무로 만든 예수님"
+      },
+        {
+        "type": "youtube",
+        "url": "https://www.youtube.com/embed/8496drVCXOA",
+        "alt": "피팔나무의 축"
+      },
+        {
+        "type": "youtube",
+        "url": "https://www.youtube.com/embed/Lkg-5m1EbHM",
+        "alt": "할아버지의 비밀"
+      },
+        {
+        "type": "youtube",
+        "url": "https://www.youtube.com/embed/cdKQwB26muM",
+        "alt": "여신 세레스의 금화축복"
+      },
+        {
+        "type": "youtube",
+        "url": "https://www.youtube.com/embed/kKLB_9QLC_s",
+        "alt": "여신 레아 실비아의 금화축복"
+      },
+
+   {
+        "type": "youtube",
+        "url": "https://www.youtube.com/embed/WtzI_uMtU98",
+        "alt": "내면의 균형을 찾아서"
       }
+
+
+      
     ]
   }
 ]
