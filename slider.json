@@ -69,10 +69,6 @@
         "url": "https://www.youtube.com/embed/WtzI_uMtU98",
         "alt": "내면의 균형을 찾아서"
       },
-
-
-
-
       
       {
         "type": "youtube",
@@ -210,36 +206,19 @@
       {
         "type": "video",
         "url": "https://i.imgur.com/41UsGvl.mp4",
-        "alt": "풍요"
+        "alt": "영상"
       },
-         {
+        {
         "type": "video",
-        "url": "https://i.imgur.com/8Q0gS27.png",
-        "alt": "풍요"
-      },
-           {
-        "type": "video",
-        "url": "https://i.imgur.com/8Q0gS27.png",
-        "alt": "풍요"
-      },
-           {
-        "type": "video",
-        "url": "https://i.imgur.com/8Q0gS27.png",
-        "alt": "풍요"
-      },
-           {
-        "type": "video",
-        "url": "https://i.imgur.com/8Q0gS27.png",
-        "alt": "풍요"
-      },
-           {
-        "type": "video",
-        "url": "https://i.imgur.com/8Q0gS27.png",
-        "alt": "풍요"
+        "url": "https://i.imgur.com/41UsGvl.mp4",
+        "alt": "영상"
+      
+         
+      }
+    ]
+  },
+  {
 
-      },
-
-{
     "name": "유튜브",
     "slides": [
       {
@@ -272,10 +251,14 @@
         "type": "youtube",
         "url": "https://www.youtube.com/embed/WtzI_uMtU98",
         "alt": "내면의 균형을 찾아서"
-      }
-
-
-      
+    }
+    
     ]
+
+}
+    
+    ]
+
+    
   }
 ]
