@@ -8,18 +8,7 @@
       { "type": "image", "url": "https://i.imgur.com/TTfgvI5.png", "alt": "뷰티걸" }
     ]
   },
-  {
-    "name": "유튜브",
-    "slides": [
-      { "type": "youtube", "url": "https://www.youtube.com/embed/eCy_YkOazSU", "alt": "나무로 만든 예수님" },
-      { "type": "youtube", "url": "https://www.youtube.com/embed/8496drVCXOA", "alt": "피팔나무의 축" },
-      { "type": "youtube", "url": "https://www.youtube.com/embed/Lkg-5m1EbHM", "alt": "할아버지의 비밀" },
-      { "type": "youtube", "url": "https://www.youtube.com/embed/cdKQwB26muM", "alt": "여신 세레스의 금화축복" },
-      { "type": "youtube", "url": "https://www.youtube.com/embed/kKLB_9QLC_s", "alt": "여신 레아 실비아의 금화축복" },
-      { "type": "youtube", "url": "https://www.youtube.com/embed/WtzI_uMtU98", "alt": "내면의 균형을 찾아서" },
-      { "type": "youtube", "url": "https://www.youtube.com/embed/af3NlXCN6zY", "alt": "락스미 여신의 풍요" }
-    ]
-  },
+ 
   {
     "name": "피트니스",
     "slides": [
@@ -54,6 +43,24 @@
       { "type": "image", "url": "https://i.imgur.com/bmPZ2x2.png", "alt": "풍요" }
     ]
   },
+
+
+ {
+    "name": "유튜브",
+    "slides": [
+      { "type": "youtube", "url": "https://www.youtube.com/embed/eCy_YkOazSU", "alt": "나무로 만든 예수님" },
+      { "type": "youtube", "url": "https://www.youtube.com/embed/8496drVCXOA", "alt": "피팔나무의 축" },
+      { "type": "youtube", "url": "https://www.youtube.com/embed/Lkg-5m1EbHM", "alt": "할아버지의 비밀" },
+      { "type": "youtube", "url": "https://www.youtube.com/embed/cdKQwB26muM", "alt": "여신 세레스의 금화축복" },
+      { "type": "youtube", "url": "https://www.youtube.com/embed/kKLB_9QLC_s", "alt": "여신 레아 실비아의 금화축복" },
+      { "type": "youtube", "url": "https://www.youtube.com/embed/WtzI_uMtU98", "alt": "내면의 균형을 찾아서" },
+      { "type": "youtube", "url": "https://www.youtube.com/embed/af3NlXCN6zY", "alt": "락스미 여신의 풍요" }
+    ]
+  },
+
+
+
+  
   {
     "name": "영상",
     "slides": [
