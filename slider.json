@@ -36,7 +36,7 @@
     ]
   },
   {
-    "name": "유튜브(소리)",
+    "name": "유튜브",
     "slides": [
       {
         "type": "youtube",
@@ -72,7 +72,7 @@
     ]
   },
   {
-    "name": "피트니스(남녀)",
+    "name": "피트니스",
     "slides": [
       {
           "type": "image",
@@ -113,7 +113,7 @@
     ]
   },
   {
-    "name": "풍수이미지",
+    "name": "풍수",
     "slides": [
       {
         "type": "image",
@@ -154,7 +154,7 @@
     ]
   },
   {
-    "name": "풍요의상징",
+    "name": "풍요",
     "slides": [
       {
         "type": "image",
