@@ -2,7 +2,7 @@
   {
     "name": "뷰티걸",
     "slides": [
-      { "type": "image", "url": "https://i.imgur.com/FIEcjPN.jpg", "alt": "뷰티걸" },
+      { "type": "image", "url": "https://i.imgur.com/Y0M3FAd.png", "alt": "뷰티걸" },
       { "type": "image", "url": "https://i.imgur.com/Ec6A0aH.jpg", "alt": "뷰티걸" },
       { "type": "image", "url": "https://i.imgur.com/RVRVIkP.jpg", "alt": "뷰티걸" },
             { "type": "image", "url": "https://i.imgur.com/AkzyQDx.jpg", "alt": "뷰티걸" },
@@ -15,7 +15,7 @@
   {
     "name": "피트니스",
     "slides": [
-      { "type": "image", "url": "https://i.imgur.com/pkJB9Oz.png", "alt": "피트니스" },
+      { "type": "image", "url": "https://i.imgur.com/5zbcOFT.png", "alt": "피트니스" },
        { "type": "image", "url": "https://i.imgur.com/pkJB9Oz.png", "alt": "피트니스" },
        { "type": "image", "url": "https://i.imgur.com/pkJB9Oz.png", "alt": "피트니스" },
        { "type": "image", "url": "https://i.imgur.com/pkJB9Oz.png", "alt": "피트니스" },
@@ -25,7 +25,7 @@
   {
     "name": "풍수",
     "slides": [
-       { "type": "image", "url": "https://i.imgur.com/TTfgvI5.png", "alt": "feng shui" },
+       { "type": "image", "url": "https://i.imgur.com/8Q0gS27.png", "alt": "feng shui" },
        { "type": "image", "url": "https://i.imgur.com/TTfgvI5.png", "alt": "feng shui" },
        { "type": "image", "url": "https://i.imgur.com/TTfgvI5.png", "alt": "feng shui" },
        { "type": "image", "url": "https://i.imgur.com/TTfgvI5.png", "alt": "feng shui" }
@@ -50,7 +50,7 @@
   {
     "name": "영상",
     "slides": [
-      { "type": "video", "url": "https://i.imgur.com/41UsGvl.mp4", "alt": "영상" },
+      { "type": "video", "url": "https://i.imgur.com/l5SvYG6.mp4", "alt": "영상" },
       { "type": "video", "url": "https://i.imgur.com/41UsGvl.mp4", "alt": "영상" },
       { "type": "video", "url": "https://i.imgur.com/41UsGvl.mp4", "alt": "영상" },
 
