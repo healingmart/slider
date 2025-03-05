@@ -46,13 +46,28 @@
     ]
   },
 
+
+  {
+    "name": "세로",
+    "slides": [
+      { "type": "image", "url": "https://i.imgur.com/8Q0gS27.png", "alt": "행운&풍요" },
+        { "type": "image", "url": "https://i.imgur.com/8Q0gS27.png", "alt": "행운&풍요" },
+        { "type": "image", "url": "https://i.imgur.com/8Q0gS27.png", "alt": "행운&풍요" },
+        { "type": "image", "url": "https://i.imgur.com/8Q0gS27.png", "alt": "행운&풍요" },
+        { "type": "image", "url": "https://i.imgur.com/8Q0gS27.png", "alt": "행운&풍요" },
+      
+      { "type": "image", "url": "https://i.imgur.com/bmPZ2x2.png", "alt": "행운&풍요" }
+    ]
+  },
+
+
+  
   {
     "name": "영상",
     "slides": [
       { "type": "video", "url": "https://i.imgur.com/41UsGvl.mp4", "alt": "영상" },
       { "type": "video", "url": "https://i.imgur.com/41UsGvl.mp4", "alt": "영상" },
       { "type": "video", "url": "https://i.imgur.com/41UsGvl.mp4", "alt": "영상" },
-  { "image": "video", "url": "https://i.imgur.com/Y0M3FAd.png", "alt": "영상" },
 
 
       
