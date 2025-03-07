@@ -2,18 +2,136 @@
   {
     "name": "뷰티걸",
     "slides": [
-      { "type": "image", "url": "https://i.imgur.com/FIEcjPN.jpg", "alt": "뷰티걸" },
-      { "type": "image", "url": "https://i.imgur.com/Ec6A0aH.jpg", "alt": "뷰티걸" },
-      { "type": "image", "url": "https://i.imgur.com/RVRVIkP.jpg", "alt": "뷰티걸" },
-            { "type": "image", "url": "https://i.imgur.com/AkzyQDx.jpg", "alt": "뷰티걸" },
-      { "type": "image", "url": "https://i.imgur.com/7vjDh1j.jpg", "alt": "뷰티걸" },
-      { "type": "image", "url": "https://i.imgur.com/RVRVIkP.jpg", "alt": "뷰티걸" },
-            { "type": "image", "url": "https://i.imgur.com/3mK0K5M.jpeg", "alt": "뷰티걸" },
-      { "type": "image", "url": "https://i.imgur.com/1EGq6bc.jpeg", "alt": "뷰티걸" },
-            { "type": "image", "url": "https://i.imgur.com/DAE49HX.jpeg", "alt": "뷰티걸" },
-      { "type": "image", "url": "https://i.imgur.com/RVRVIkP.jpg", "alt": "뷰티걸" },
-            { "type": "image", "url": "https://i.imgur.com/7vjDh1j.jpg", "alt": "뷰티걸" },
-      { "type": "image", "url": "https://i.imgur.com/RVRVIkP.jpg", "alt": "뷰티걸" },
+
+
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/uffsvqR.jpeg",
+    "alt": "뷰티걸"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/kIdqhCG.jpeg",
+    "alt": "뷰티걸"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/GtTDnRw.jpeg",
+    "alt": "뷰티걸"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/rWuUJbP.jpeg",
+    "alt": "뷰티걸"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/3mK0K5M.jpeg",
+    "alt": "뷰티걸"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/DAE49HX.jpeg",
+    "alt": "뷰티걸"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/1EGq6bc.jpeg",
+    "alt": "뷰티걸"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/87w65Ce.jpeg",
+    "alt": "뷰티걸"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/HEB1623.jpeg",
+    "alt": "뷰티걸"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/FxfHtiu.jpeg",
+    "alt": "뷰티걸"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/8UdhJ92.jpeg",
+    "alt": "뷰티걸"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/TyqWCJJ.jpeg",
+    "alt": "뷰티걸"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/ZIb75h7.jpeg",
+    "alt": "뷰티걸"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/S70r3FM.jpeg",
+    "alt": "뷰티걸"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/6mvrL4D.jpeg",
+    "alt": "뷰티걸"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/YNvnujo.jpeg",
+    "alt": "뷰티걸"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/DxkxNx5.jpeg",
+    "alt": "뷰티걸"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/kvDhtVq.jpeg",
+    "alt": "뷰티걸"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/YYISczC.jpeg",
+    "alt": "뷰티걸"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/AkzyQDx.jpeg",
+    "alt": "뷰티걸"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/7vjDh1j.jpeg",
+    "alt": "뷰티걸"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/Ec6A0aH.jpeg",
+    "alt": "뷰티걸"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/FIEcjPN.jpeg",
+    "alt": "뷰티걸"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/RVRVIkP.jpeg",
+    "alt": "뷰티걸"
+  }
+
+
+
+
+
+
+
+
       
       { "type": "image", "url": "https://i.imgur.com/TTfgvI5.png", "alt": "뷰티걸" }
     ]
