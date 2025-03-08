@@ -141,7 +141,7 @@
     ]
   },
   {
-    "name": "풍수",
+    "name": "배경",
     "slides": [
        { "type": "image", "url": "https://i.imgur.com/TTfgvI5.png", "alt": "feng shui" },
        { "type": "image", "url": "https://i.imgur.com/TTfgvI5.png", "alt": "feng shui" },
@@ -152,7 +152,7 @@
     ]
   },
   {
-    "name": "행운&풍요",
+    "name": "행운&풍수",
     "slides": [
       { "type": "image", "url": "https://i.imgur.com/pkJB9Oz.png", "alt": "행운&풍요" },
         { "type": "image", "url": "https://i.imgur.com/8Q0gS27.png", "alt": "행운&풍요" },
