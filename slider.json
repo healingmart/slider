@@ -904,7 +904,6 @@
     "url": "https://i.imgur.com/vNxacGy.jpeg",
     "alt": "풍수가로"
   },
-      
       { "type": "image", "url": "https://i.imgur.com/bmPZ2x2.png", "alt": "행운&풍요" }
     ]
   },
@@ -916,9 +915,6 @@
       { "type": "video", "url": "https://i.imgur.com/41UsGvl.mp4", "alt": "영상" },
       { "type": "video", "url": "https://i.imgur.com/41UsGvl.mp4", "alt": "영상" },
       { "type": "video", "url": "https://i.imgur.com/41UsGvl.mp4", "alt": "영상" },
-
-
-      
       { "type": "video", "url": "https://i.imgur.com/41UsGvl.mp4", "alt": "영상" }
       
     ]
