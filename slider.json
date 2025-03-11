@@ -180,12 +180,145 @@
     ]
   },
   {
-    "name": "배경",
+    "name": "재물",
     "slides": [
-      { "type": "image", "url": "https://i.imgur.com/TTfgvI5.png", "alt": "배경" },
-      { "type": "image", "url": "https://i.imgur.com/TTfgvI5.png", "alt": "배경" },
-      { "type": "image", "url": "https://i.imgur.com/TTfgvI5.png", "alt": "배경" },
-      { "type": "image", "url": "https://i.imgur.com/TTfgvI5.png", "alt": "배경" }
+      { "type": "image", "url": "https://i.imgur.com/2QzuEaf.jpeg", "alt": "배경" },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/KSz1t9k.jpeg",
+    "alt": "재물"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/ae4WleG.jpeg",
+    "alt": "재물"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/xuGWpsb.jpeg",
+    "alt": "재물"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/SBCLYiv.jpeg",
+    "alt": "재물"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/VvpFb95.jpeg",
+    "alt": "재물"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/U1oY9QC.jpeg",
+    "alt": "재물"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/ApPz5RG.jpeg",
+    "alt": "재물"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/E7KtC1c.jpeg",
+    "alt": "재물"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/qRob2yG.jpeg",
+    "alt": "재물"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/xccgVuI.jpeg",
+    "alt": "재물"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/1bSX7Xv.jpeg",
+    "alt": "재물"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/yyQItWE.jpeg",
+    "alt": "재물"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/tkoqnA0.jpeg",
+    "alt": "재물"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/tuHtgLR.jpeg",
+    "alt": "재물"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/58l29Gf.jpeg",
+    "alt": "재물"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/vOaDoag.jpeg",
+    "alt": "재물"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/Cg6PJLC.jpeg",
+    "alt": "재물"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/pfkxhaK.jpeg",
+    "alt": "재물"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/QDlBfQr.jpeg",
+    "alt": "재물"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/BTJh6kz.jpeg",
+    "alt": "재물"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/Wocg1Ft.jpeg",
+    "alt": "재물"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/YPtM3Pd.jpeg",
+    "alt": "재물"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/RXLg9eC.jpeg",
+    "alt": "재물"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/REPnzO4.jpeg",
+    "alt": "재물"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/TTeYUYw.jpeg",
+    "alt": "재물"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/JCCA2Ld.jpeg",
+    "alt": "재물"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/r92muzt.jpeg",
+    "alt": "재물"
+  }
+
     ]
   },
   {
