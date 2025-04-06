@@ -510,10 +510,8 @@
   {
     "name": "부처님 동영상",
     "slides": [
-      { "type": "image", "url": "https://i.imgur.com/pkJB9Oz.png", "alt": "행운&풍요" },
-        { "type": "image", "url": "https://i.imgur.com/8Q0gS27.png", "alt": "행운&풍요" },
-        { "type": "image", "url": "https://i.imgur.com/8Q0gS27.png", "alt": "행운&풍요" },
-        { "type": "image", "url": "https://i.imgur.com/8Q0gS27.png", "alt": "행운&풍요" },
+   
+        { "type": "image", "url": "https://i.imgur.com/hVt5W44.mp4", "alt": "부처님1" },
         { "type": "image", "url": "https://i.imgur.com/8Q0gS27.png", "alt": "행운&풍요" }
     ]
   },
