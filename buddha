@@ -2,13 +2,507 @@
   {
     "name": "부처님",
     "slides": [
-      { "type": "image", "url": "https://i.imgur.com/Y0M3FAd.png", "alt": "뷰티걸" },
-      { "type": "image", "url": "https://i.imgur.com/Ec6A0aH.jpg", "alt": "뷰티걸" },
-      { "type": "image", "url": "https://i.imgur.com/RVRVIkP.jpg", "alt": "뷰티걸" },
-      { "type": "image", "url": "https://i.imgur.com/AkzyQDx.jpg", "alt": "뷰티걸" },
-      { "type": "image", "url": "https://i.imgur.com/7vjDh1j.jpg", "alt": "뷰티걸" },
-      { "type": "image", "url": "https://i.imgur.com/RVRVIkP.jpg", "alt": "뷰티걸" },
-      { "type": "image", "url": "https://i.imgur.com/TTfgvI5.png", "alt": "뷰티걸" }
+   {
+    "type": "image",
+    "url": "https://i.imgur.com/dgFC4Pr.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/2iNeugM.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/SCqK4KA.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/kihHFi5.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/qCRlnFX.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/zDjibzc.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/pEcleoD.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/CnMS5pA.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/FeZVdZR.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/373ygYP.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/6NH2qR1.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/1npf607.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/jEReoVO.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/mIdXp9N.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/M8Es6Vr.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/HEHkziQ.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/t9r98xb.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/n4wmWlV.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/V5yasHM.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/5XazArw.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/V1Di4L8.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/hBx3SAp.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/f2UJudW.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/gYcLj2d.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/gEc1iz5.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/ulDqVP4.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/GYbCKc7.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/zpgAXo6.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/r382Ogd.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/x20eWmx.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/rkKVmFY.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/je9cQXx.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/RLWAaTy.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/hgZm6m5.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/FEu7zTH.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/60hw3vc.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/IbVcyOM.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/xLeCfqh.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/Ohv35Md.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/8yHPIV7.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/fSWvEEJ.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/D2FDrsM.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/XQaVmek.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/i318TWC.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/WuEtMep.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/jG7SPBu.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/BcECHcF.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/RjVYmrj.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/rT2y4vw.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/invlO6Y.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/1MVO1L7.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/QojZtNa.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/6z7CjgQ.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/OHbhQvW.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/u7j9fhp.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/bO2UIk2.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/v5MRSXr.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/V4ZcGe7.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/qivXMIj.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/IBHzw1l.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/u3YK0QW.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/dFEkn4E.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/TI5MhI9.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/6wTrX6t.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/1slu4e8.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/bWKv1M1.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/3k61102.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/3wd9pt8.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/EorZGCA.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/wDCnPXb.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/WLmlCgG.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/0DiVIIR.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/RRpza8p.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/wEvJdrJ.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/QA2Zc2t.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/xItt7YX.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/YfvXeIq.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/trZBElf.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/PYunNPA.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/ZYmwI77.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/QapE6Ln.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/TsFUpTH.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/eA8WfvP.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/mV7pTZd.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/qiPN0eh.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/hw3PeoI.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/NnboGYo.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/HJu5oFM.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/fQTjOL8.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/BfFfAo4.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/I0HCPw5.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/yGlrj4i.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/kXPugVP.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/68w7UlT.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/J5m09fx.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/xhzEyId.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/dKz4I5A.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/mZJOO9v.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/Kjx5iUl.jpeg",
+    "alt": "부처님"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/rwqHKK9.jpeg",
+    "alt": "부처님"
+  }
+
     ]
   },
  {
