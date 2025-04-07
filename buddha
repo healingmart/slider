@@ -511,8 +511,9 @@
     "name": "동영상",
     "slides": [
    
-        { "type": "video", "url": "https://i.imgur.com/G4lH6jf.mp4", "alt": "락슈미1" },
-        { "type": "video", "url": "https://i.imgur.com/Ys6bHz8.mp4", "alt": "락슈미2" }
+        { "type": "video", "url": "https://i.imgur.com/hte0g33.mp4", "alt": "부처님1" },
+      { "type": "video", "url": "https://i.imgur.com/zjOGjAR.mp4", "alt": "부처님1" },
+        { "type": "video", "url": "https://i.imgur.com/hVt5W44.mp4", "alt": "부처님2" }
     ]
   },
  
