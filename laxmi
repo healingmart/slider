@@ -1,0 +1,516 @@
+[
+  {
+    "name": "이미지",
+    "slides": [
+        {
+    "type": "image",
+    "url": "https://i.imgur.com/l6mK2rD.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/EdV9ms8.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/1yHRlTF.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/vHGXRUy.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/KTEoggB.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/0CvEeBq.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/xq4syHl.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/LRQxNwW.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/w8zO1CV.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/x2ntFIB.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/au6hcj0.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/A5NFdXN.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/PJLkeo3.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/U994z8e.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/MYmyGw1.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/I9yW77x.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/wvmH00q.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/4uzUCNT.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/svOhhXZ.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/x82n7io.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/JDInidq.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/aKXIXpE.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/YdKW3Qe.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/P45lh4x.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/26ohJRv.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/igu2ARi.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/gqzoU4F.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/KxzCxnF.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/9QDZBzN.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/Knhxz42.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/bwTTt7a.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/qShDiCJ.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/Ssg4isR.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/ZgXHJDP.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/ccuqkJx.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/n8Koks3.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/RiSUgrl.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/66pRCJc.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/ZnvePz0.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/hVZGcal.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/khB4rvo.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/mG4APpD.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/w6yTI7O.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/ehLR4x5.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/bcTU6Mj.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/97itSIg.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/0aGpiuX.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/E3zcfmL.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/7tsxLDo.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/9lYwlQ2.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/jdPmb2h.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/M6qqCyc.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/Orw0uKh.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/K7CaGCA.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/pcax1ii.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/nyZFAMb.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/EzzEUHE.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/HEnQOHR.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/i6d6UIu.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/i5x6vYa.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/EBUnoZ5.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/vmGyEmk.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/ZIWllfa.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/6d3SEIY.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/Kl1CbBe.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/LHyet1n.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/JCE73AP.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/zGhFLYo.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/A78B1sv.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/42PLvuR.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/1fz6u86.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/a2e4lgL.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/6ug8J8v.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/DzrFidk.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/BOtpYUq.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/moIZR8H.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/esaUgI0.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/Zced2qn.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/xpfGxkr.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/J9rcld8.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/BnAAUo1.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/Em78iw4.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/0QASoiT.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/OCpwbPK.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/4FPCFu0.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/X4AMPrA.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/vdcCCDM.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/HygDp9l.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/X8KPvQo.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/SGRhyJd.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/YDGWxAJ.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/VJoQAWi.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/YnszBnq.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/VP92rZC.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/oB5dYHm.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/W5A0Nvt.jpeg",
+    "alt": "락슈미"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/4puDZlZ.jpeg",
+    "alt": "락슈미"
+  }
+      
+     ]
+  },
+ 
+  {
+    "name": "동영상",
+    "slides": [
+      { "type": "video", "url": "https://i.imgur.com/pkJB9Oz.png", "alt": "행운&풍요" },
+        { "type": "video", "url": "https://i.imgur.com/8Q0gS27.png", "alt": "행운&풍요" },
+        { "type": "video", "url": "https://i.imgur.com/8Q0gS27.png", "alt": "행운&풍요" },
+        { "type": "video", "url": "https://i.imgur.com/8Q0gS27.png", "alt": "행운&풍요" },
+        { "type": "video", "url": "https://i.imgur.com/8Q0gS27.png", "alt": "행운&풍요" }
+    ]
+  },
+ 
+ {
+    "name": "유튜브",
+    "slides": [
+      { "type": "youtube", "url": "https://www.youtube.com/embed/eCy_YkOazSU", "alt": "나무로 만든 예수님" },
+      { "type": "youtube", "url": "https://www.youtube.com/embed/8496drVCXOA", "alt": "피팔나무의 축" },
+      { "type": "youtube", "url": "https://www.youtube.com/embed/Lkg-5m1EbHM", "alt": "할아버지의 비밀" },
+      { "type": "youtube", "url": "https://www.youtube.com/embed/cdKQwB26muM", "alt": "여신 세레스의 금화축복" },
+      { "type": "youtube", "url": "https://www.youtube.com/embed/kKLB_9QLC_s", "alt": "여신 레아 실비아의 금화축복" },
+      { "type": "youtube", "url": "https://www.youtube.com/embed/af3NlXCN6zY", "alt": "락스미 여신의 풍요" }
+    ]
+  }
+]
