@@ -491,8 +491,8 @@
     "name": "동영상",
     "slides": [
       { "type": "video", "url": "https://i.imgur.com/pkJB9Oz.png", "alt": "행운&풍요" },
-        { "type": "video", "url": "https://i.imgur.com/8Q0gS27.png", "alt": "행운&풍요" }
-        { "type": "video", "url": "https://i.imgur.com/8Q0gS27.png", "alt": "행운&풍요" }
+{ "type": "video", "url": "https://i.imgur.com/pkJB9Oz.png", "alt": "행운&풍요" },
+{ "type": "video", "url": "https://i.imgur.com/8Q0gS27.png", "alt": "행운&풍요" }
     ]
   },
  
