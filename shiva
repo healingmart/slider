@@ -1,0 +1,510 @@
+[
+  {
+    "name": "이미지",
+    "slides": [
+     {
+    "type": "image",
+    "url": "https://i.imgur.com/lzbALbN.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/VK1PbkX.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/l8a2Ekx.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/YCX2oIB.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/UVIlLkp.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/vgjBzHd.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/Sz8ygPz.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/YcJi43O.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/v3YUXdf.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/u9GCh8x.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/zd0JviE.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/J1aURQR.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/SooeetQ.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/Lu1UMuE.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/yJ0lXdk.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/njsDkFB.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/uJsAGtj.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/kvEGXPo.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/9RLjQEP.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/C8DvLqF.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/wrJCRH4.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/xcByGbE.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/hBDCn4N.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/HxA9Bnw.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/xi9uBQN.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/kNhXHEj.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/9QOt5Du.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/EDzVcc1.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/w3DLcwa.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/gfRLQXn.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/PDMe5QS.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/rkzxlVJ.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/xuMpDxE.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/r6LZ5AC.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/5o6uho6.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/5HCDqG7.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/83YWam6.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/SNigZeH.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/F628qfu.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/iAg0oyH.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/0YYIKuO.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/19Y25uD.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/wFNI1pc.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/cJY4eMi.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/g3yRTMZ.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/B2Bj4YB.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/RCphlZW.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/dScmnFq.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/4SPsvLe.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/w5gX7uG.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/dVgDpE9.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/D9sq2vQ.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/TLxTwa6.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/j0O7phl.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/c6J1d2U.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/JC2XKFZ.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/9vfNSYc.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/J2e2ZVq.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/6SVnbSD.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/wV1oFqY.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/2x3Rulz.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/KJOPcm8.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/OnbAMUo.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/C1v7YjN.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/W8v0IFJ.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/LBuPiPT.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/zsjY6Yz.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/x7pFYL2.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/yu1lh1m.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/odGuwfQ.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/8rwhRmh.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/TipAu6A.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/r19gthM.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/8wP8OHq.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/hPtx0WL.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/q2SsiLO.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/hFbWGg3.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/h4OMbEH.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/Ad8RP4w.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/cebSGF7.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/uqT3eQR.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/de9qLiS.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/rRd5iSU.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/PELFZmG.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/XQSoTzZ.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/gNFMb7T.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/Q46aa4B.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/MHf3OSz.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/q6NYKHK.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/yvmAdhR.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/igcQmng.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/L3L53XR.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/YKUtrfS.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/3n76Vn0.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/Pa6BDDT.jpeg",
+    "alt": "쉬바"
+  },
+  {
+    "type": "image",
+    "url": "https://i.imgur.com/wLqgxWV.jpeg",
+    "alt": "쉬바"
+  }
+
+      
+     ]
+  },
+ 
+  {
+    "name": "동영상",
+    "slides": [
+      { "type": "video", "url": "https://i.imgur.com/pkJB9Oz.png", "alt": "행운&풍요" },
+        { "type": "video", "url": "https://i.imgur.com/8Q0gS27.png", "alt": "행운&풍요" }
+        { "type": "ivideo", "url": "https://i.imgur.com/8Q0gS27.png", "alt": "행운&풍요" }
+    ]
+  },
+ 
+ {
+    "name": "유튜브",
+    "slides": [
+      { "type": "youtube", "url": "https://www.youtube.com/embed/eCy_YkOazSU", "alt": "나무로 만든 예수님" },
+      { "type": "youtube", "url": "https://www.youtube.com/embed/8496drVCXOA", "alt": "피팔나무의 축" },
+      { "type": "youtube", "url": "https://www.youtube.com/embed/Lkg-5m1EbHM", "alt": "할아버지의 비밀" },
+      { "type": "youtube", "url": "https://www.youtube.com/embed/cdKQwB26muM", "alt": "여신 세레스의 금화축복" },
+      { "type": "youtube", "url": "https://www.youtube.com/embed/kKLB_9QLC_s", "alt": "여신 레아 실비아의 금화축복" },
+      { "type": "youtube", "url": "https://www.youtube.com/embed/af3NlXCN6zY", "alt": "락스미 여신의 풍요" }
+    ]
+  }
+]
